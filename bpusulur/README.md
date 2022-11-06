@@ -1,6 +1,9 @@
 # BHARATH PUSULURU
 
-Hi, my name is Pusuluru Bharath sai;
-I'm doing my Bachelor In Technology in Computer science and engineering at gitam University.
+Hi, my name is Pusuluru Bharath sai;  
+- I am in my second year of B.Tech CSE at GITAM (Deemed to be University), Visakhapatnam.
+- I’m interested in Web Dev,DS.
+- I’m currently Working on Web Development.  
+- 
 
-![My Image](https://github.com/dEmo02021/pragnya-website/blob/b2618998503ecdff77d282ee7db101aeda99a31d/bpusulur/My%20Photo.jpg "Image")
+![me](https://user-images.githubusercontent.com/99551814/200188651-93268f92-e667-44c4-b77f-f4b49ce1aa19.jpg)
